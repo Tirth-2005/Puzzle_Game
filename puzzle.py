@@ -179,6 +179,6 @@ def main():
         pygame.display.update()
         clock.tick(cfg.FPS)
     ShowEndInterface(screen, game_img_used_rect.width, game_img_used_rect.height)
-      
-if __name__ == '__main__':
-    main()
+
+if __name__ == "__main__":
+    main()  

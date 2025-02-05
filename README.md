@@ -6,3 +6,9 @@
 ### • One tile is always blank, and you can slide adjacent tiles into the blank space to rearrange them.
 ### • Use arrow keys or WASD for movement.
 ### • Solve the puzzle by arranging all tiles in the correct order.
+
+
+
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i1.png" />
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i2.png" />
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i3.png" />

@@ -9,6 +9,6 @@
 
 
 
-<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i1.png" />
-<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i2.png" />
-<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i3.png" />
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i1.png" width="300" height="200"/>
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i2.png" width="300" height="200"/>
+<img src="https://github.com/Tirth-2005/Puzzle_Game/blob/master/resources/pictures/i3.png" width="300" height="200"/>
